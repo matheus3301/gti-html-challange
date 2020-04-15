@@ -12,5 +12,7 @@ listadas (essa categoria irá representa seu cliente fictício) abaixo:
 - Empresa de Soluções Jurídicas.
 
 Template 1: https://i.imgur.com/nH5S22G.png ( SELECIONADA )
+
 Template 2: https://i.imgur.com/5HQzjm7.jpg
+
 Template 3: https://i.imgur.com/E3ucNmj.png
